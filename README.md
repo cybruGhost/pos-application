@@ -49,5 +49,4 @@ Contributing
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-   git clone https://github.com/Cybrughost/pos-application.git
+username == "admin" and password == "admin123":
